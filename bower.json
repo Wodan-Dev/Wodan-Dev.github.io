@@ -1,0 +1,20 @@
+{
+  "name": "Wodan-Dev.github.io",
+  "homepage": "https://github.com/Wodan-Dev/Wodan-Dev.github.io",
+  "authors": [
+    "KennyMack <creativeweb.de@gmail.com>"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1"
+  },
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
